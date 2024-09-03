@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35026.282
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Lead Structure Tool", "Lead Structure Tool\Lead Structure Tool.vbproj", "{CD670E78-142D-4D87-9F5A-DC95E3A1A08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD670E78-142D-4D87-9F5A-DC95E3A1A08A}.Debug|Any CPU.ActiveCfg = Release|x64
+		{CD670E78-142D-4D87-9F5A-DC95E3A1A08A}.Debug|Any CPU.Build.0 = Release|x64
+		{CD670E78-142D-4D87-9F5A-DC95E3A1A08A}.Debug|x64.ActiveCfg = Debug|x64
+		{CD670E78-142D-4D87-9F5A-DC95E3A1A08A}.Debug|x64.Build.0 = Debug|x64
+		{CD670E78-142D-4D87-9F5A-DC95E3A1A08A}.Debug|x86.ActiveCfg = Debug|x86
+		{CD670E78-142D-4D87-9F5A-DC95E3A1A08A}.Debug|x86.Build.0 = Debug|x86
+		{CD670E78-142D-4D87-9F5A-DC95E3A1A08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD670E78-142D-4D87-9F5A-DC95E3A1A08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD670E78-142D-4D87-9F5A-DC95E3A1A08A}.Release|x64.ActiveCfg = Release|x64
+		{CD670E78-142D-4D87-9F5A-DC95E3A1A08A}.Release|x64.Build.0 = Release|x64
+		{CD670E78-142D-4D87-9F5A-DC95E3A1A08A}.Release|x86.ActiveCfg = Release|x86
+		{CD670E78-142D-4D87-9F5A-DC95E3A1A08A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33017A12-8B4A-464E-B850-E35CB260B73F}
+	EndGlobalSection
+EndGlobal
